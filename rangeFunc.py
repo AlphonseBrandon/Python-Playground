@@ -6,3 +6,5 @@
 
 for x in range(10):
     print(x)
+    if x == 6:
+        break
