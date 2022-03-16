@@ -8,3 +8,9 @@ for x in range(6):
     print(x)
 else:
     print("Range exhausted!")
+
+
+# loop through a list
+
+fruits = ["Apple", "Spice", "Tomato"]
+
