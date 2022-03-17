@@ -14,3 +14,10 @@ else:
 
 fruits = ["Apple", "Spice", "Tomato"]
 
+for fruit in enumerate(fruits):
+    print(fruit)
+
+# Referencing the index
+
+for i, fruitt in enumerate(fruits):
+    print("Index:", i, "fruit:", fruitt)
